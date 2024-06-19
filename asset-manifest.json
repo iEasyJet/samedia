@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/samedia/static/css/main.7a283599.css",
+    "main.js": "/samedia/static/js/main.7f627158.js",
+    "static/js/453.f76c1d9b.chunk.js": "/samedia/static/js/453.f76c1d9b.chunk.js",
+    "static/media/logo.svg": "/samedia/static/media/logo.c08e7a4aa958da7d6a078abf13c958f9.svg",
+    "static/media/pesticidesHover.svg": "/samedia/static/media/pesticidesHover.9dc720aded2068eec21c0fb903de7633.svg",
+    "static/media/pesticides.svg": "/samedia/static/media/pesticides.d7294f3b9e557ddfdc81a77341c7ebb2.svg",
+    "static/media/decor5.svg": "/samedia/static/media/decor5.8f2e83e8994c626ea84d.svg",
+    "static/media/decor6.svg": "/samedia/static/media/decor6.16d2fddd0d38877f5368.svg",
+    "static/media/decor7.svg": "/samedia/static/media/decor7.43e196e3fad5d2eaec75.svg",
+    "static/media/decor8.svg": "/samedia/static/media/decor8.fb08ca847a518aff228c.svg",
+    "static/media/pestsHover.svg": "/samedia/static/media/pestsHover.5babf67a1dada8cf0d678a907bdbf826.svg",
+    "static/media/pests.svg": "/samedia/static/media/pests.b29788408dba34e749d66c15a43e1564.svg",
+    "static/media/substances.svg": "/samedia/static/media/substances.28884065517746b13e9e9d948364ba1b.svg",
+    "static/media/substancesHover.svg": "/samedia/static/media/substancesHover.380560f8632bf1b7b05ff9688a5b45c9.svg",
+    "static/media/sheet.svg": "/samedia/static/media/sheet.ec48d9f41a53d80669a8.svg",
+    "static/media/decor2.svg": "/samedia/static/media/decor2.fbf595d5db1e5fd9b3bd.svg",
+    "static/media/decor3.svg": "/samedia/static/media/decor3.22df22f72954e749aa02.svg",
+    "static/media/decor4.svg": "/samedia/static/media/decor4.5090d010b68722e21bd9.svg",
+    "static/media/decor.svg": "/samedia/static/media/decor.0a6e094b0f7798d31a69.svg",
+    "static/media/culturesHover.svg": "/samedia/static/media/culturesHover.323be7cfdf59ea0526f86a731f98aa3c.svg",
+    "static/media/cultures.svg": "/samedia/static/media/cultures.ff12aa357518bbff9684f403d8fc40fc.svg",
+    "index.html": "/samedia/index.html",
+    "static/media/key.svg": "/samedia/static/media/key.c57a25bf983bbef9cd44ce4fb8e569cf.svg",
+    "static/media/person.svg": "/samedia/static/media/person.bbf4c0b656c550fc904ba364b7a8fa08.svg",
+    "main.7a283599.css.map": "/samedia/static/css/main.7a283599.css.map",
+    "main.7f627158.js.map": "/samedia/static/js/main.7f627158.js.map",
+    "453.f76c1d9b.chunk.js.map": "/samedia/static/js/453.f76c1d9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a283599.css",
+    "static/js/main.7f627158.js"
+  ]
+}
