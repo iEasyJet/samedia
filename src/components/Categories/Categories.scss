@@ -1,0 +1,64 @@
+@import url('../../index.scss');
+
+.categories {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 68px;
+
+  background: url('../../imgs/sheet.svg') no-repeat top 77px left 0px,
+    url('../../imgs/decor.svg') no-repeat top 0px left 63%,
+    url('../../imgs/decor2.svg') no-repeat bottom 0px left 0px,
+    url('../../imgs/decor3.svg') no-repeat top 435px left 65.5%,
+    url('../../imgs/decor4.svg') no-repeat bottom 104px right 0px;
+  width: 100vw;
+  min-height: 622px;
+
+  &__wrapper-card {
+    margin: 0 auto;
+
+    display: flex;
+    max-width: 1600px;
+    width: 100%;
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+  }
+
+  &__title {
+    margin: 0 0 68px;
+    padding: 0;
+
+    font-family: 'Raleway', sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 40px;
+  }
+}
+
+.categories:hover {
+  animation-duration: 5s;
+  animation-name: sheet;
+  animation-iteration-count: infinite;
+}
+
+@keyframes sheet {
+  0% {
+    background-position: top 77px left 0px, top 0px left 63%,
+      bottom 0px left 0px, top 435px left 65.5%, bottom 104px right 0px;
+  }
+  50% {
+    background-position: top 70px left 5px, top 0px left 63%,
+      bottom 0px left 0px, top 440px left 67.5%, bottom 104px right 0px;
+  }
+  100% {
+    background-position: top 77px left 0px, top 0px left 63%,
+      bottom 0px left 0px, top 435px left 65.5%, bottom 104px right 0px;
+  }
+}
